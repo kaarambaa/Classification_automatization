@@ -11,7 +11,7 @@
 - LightGBM (version 3.3.2)
 - PyQt5 (version 5.15.6)
 
-*Provided versions represents those ones, which have been used in application development and not striclty required, however, too old versions of libraries might not provide the same classes and functions*
+*Provided versions represents those ones, which have been used in application development and not striclty required, however, too old versions of libraries might not provide the same classes and functions as excpected*
 
 ## Running the application
 1. Download all **.py** files and place them into one folder
